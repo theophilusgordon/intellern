@@ -1,0 +1,41 @@
+[project]
+name = "intellern-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aiofiles>=24.1.0",
+    "alembic>=1.16.2",
+    "asyncpg>=0.30.0",
+    "black>=25.1.0",
+    "chromadb>=1.0.15",
+    "factory-boy>=3.3.3",
+    "faker>=37.4.0",
+    "fastapi>=0.115.14",
+    "flake8>=7.3.0",
+    "httpx>=0.28.1",
+    "langchain>=0.3.26",
+    "langchain-openai>=0.3.27",
+    "mypy>=1.16.1",
+    "numpy>=2.2.6",
+    "openai>=1.93.0",
+    "pandas>=2.3.0",
+    "pillow>=11.3.0",
+    "pre-commit>=4.2.0",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.10.1",
+    "pypdf>=5.7.0",
+    "pytest>=8.4.1",
+    "pytest-asyncio>=1.0.0",
+    "pytest-cov>=6.2.1",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.1.1",
+    "python-jose[cryptography]>=3.5.0",
+    "python-multipart>=0.0.20",
+    "redis>=6.2.0",
+    "scikit-learn>=1.7.0",
+    "sqlalchemy>=2.0.41",
+    "uvicorn[standard]>=0.35.0",
+    "websockets>=15.0.1",
+]

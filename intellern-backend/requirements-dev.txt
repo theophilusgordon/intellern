@@ -1,0 +1,10 @@
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+factory-boy
+faker
+black
+flake8
+mypy
+pre-commit

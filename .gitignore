@@ -1,0 +1,4 @@
+# Root .gitignore
+[include]
+    intellern-backend/.gitignore
+    intellern-frontend/.gitignore
